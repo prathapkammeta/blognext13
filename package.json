@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prod":"next export"
+    "prod": "next export"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -17,6 +17,7 @@
     "next": "13.4.5",
     "next-auth": "^4.22.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "yarn": "^1.22.19"
   }
 }
